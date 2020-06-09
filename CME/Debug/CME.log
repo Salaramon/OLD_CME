@@ -1,0 +1,3 @@
+﻿  CME.cpp
+C:\Users\Salaramon\source\repos\CME\CME\CME.cpp(71,7): warning C4101: 'e': unreferenced local variable
+  CME.vcxproj -> C:\Users\Salaramon\source\repos\CME\Debug\CME.exe
